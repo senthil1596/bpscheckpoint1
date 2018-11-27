@@ -71,7 +71,7 @@
 			<div class="col-md-10"><br>
 				<b>On Hold  > Salary Details</b><hr>
 				<div class="pull-right" style="float:left;">
-					<a href="Submitted.php" class="btn btn-outline-primary">< Back</a>
+					<a href="OnHold.php" class="btn btn-outline-primary">< Back</a>
 				</div><br><br>
 				<div>
 					<p><b>Employee Detail</b></p>
